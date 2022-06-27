@@ -8,8 +8,8 @@
     },
     "background": {
         "overlay_alpha": 120,
-        "url": "https:\/\/media.discordapp.net\/attachments\/883090094330880001\/989672582057967646\/GradientBlue.png",
-        "blur_radius": 0
+        "blur_radius": 0,
+        "url": "https:\/\/media.discordapp.net\/attachments\/928018644749922394\/991040313193803886\/GradientBlue.png"
     },
     "fonts": {},
     "simple_colors": {
