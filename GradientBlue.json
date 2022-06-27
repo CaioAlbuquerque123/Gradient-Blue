@@ -3,7 +3,8 @@
         "version": "1.0.2",
         "name": "Gradient Blue Theme",
         "author": "Sakiro#6328",
-        "license": "CIA"
+        "license": "CIA",
+        "updater": "https:\/\/raw.githubusercontent.com\/CaioAlbuquerque123\/Gradient-Blue\/main\/GradientBlue.json"
     },
     "background": {
         "overlay_alpha": 120,
